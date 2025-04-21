@@ -10,7 +10,7 @@ FAVICON = 'favicon-32x32.png'
 SOUND_1 = 'doom-death-sound-effect.ogg'
 SOUND_2 = 'atomic-cat.ogg'
 SOUND_3 = 'roblox-death-sound.ogg'
-BGMUSIC = 'Separate Ways (Worlds Apart) (2023 Remaster).mp3'
+BGMUSIC = 'Separate Ways (Worlds Apart) (2023 Remaster).ogg'
 FPS = 60
 
 WHITE = (255,255,255)
