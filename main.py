@@ -55,7 +55,7 @@ def main():
 
     instructions = ["Press 'a' to play Sound Effect #1","Press 's' to play Sound Effect #2","Press 'd' to play Sound Effect #3","Press 'm' to play the Background music","Press 'p' to pause the Background Music"]
 
-    base_y = 40
+    base_y = 20
     line_height = 40
     running = True
     while running:
